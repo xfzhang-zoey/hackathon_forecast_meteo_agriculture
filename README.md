@@ -3,13 +3,13 @@ C'est une compétition Hackathon organisé par le Ministère de l'Agriculture. J
 
 https://numerique.acta.asso.fr/le-projet-floral/
 
-#4 sources de data:#
+## 4 sources de data: 
 - observations empiriques comprenant de multiples indicateurs qui décident les différents niveaux de risques de gel 
 - stade phénologique de ladite parcelle vigne 
 - géolocalisation des parcelles agricole basé sur GPS  
 - data météorologique en temps réel (sources: Météo France)
 
-# Le projet se déroule comme suit: 
+## Le projet se déroule comme suit: 
 - constitution de l'équipe qui englobe de diverses compétences (data science, météorologue et agriculture, dev web, product management IT)  
 - idéation de projet : choix de sujet précis, faisabilité, compatibilité, prioritisation de features et les tâches y afférentes
 - du pôle Data : 
