@@ -3,7 +3,7 @@ C'est une compétition Hackathon organisé par le Ministère de l'Agriculture. J
 
 https://numerique.acta.asso.fr/le-projet-floral/
 
-#4 sources de data:##
+#4 sources de data:#
 - observations empiriques comprenant de multiples indicateurs qui décident les différents niveaux de risques de gel 
 - stade phénologique de ladite parcelle vigne 
 - géolocalisation des parcelles agricole basé sur GPS  
