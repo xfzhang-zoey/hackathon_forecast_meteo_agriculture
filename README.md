@@ -20,5 +20,5 @@ https://numerique.acta.asso.fr/le-projet-floral/
   - prédiction, scoring de risque  
   - mise en production (intégration de l'algorithme dans la solution)
 
-
+- évaluation interne et optimisation du projet, préparation de pitch 
 
