@@ -12,6 +12,9 @@ https://numerique.acta.asso.fr/le-projet-floral/
 ## Le projet se déroule comme suit: 
 - constitution de l'équipe qui englobe de diverses compétences (data science, météorologue et agriculture, dev web, product management IT)  
 - idéation de projet : choix de sujet précis, faisabilité, compatibilité, prioritisation de features et les tâches y afférentes
+- exécution du projet avec collaboration étroite parmi les rôles
+- évaluation interne et optimisation du projet, préparation de pitch 
+
 ### du pôle Data : 
   - recherche et récupération de data de divers sources 
   - nettoyage et traitement de data 
@@ -19,6 +22,3 @@ https://numerique.acta.asso.fr/le-projet-floral/
   - model training, model performance evaluation, optimisation de model 
   - prédiction, scoring de risque  
   - mise en production (intégration de l'algorithme dans la solution)
-
-- évaluation interne et optimisation du projet, préparation de pitch 
-
